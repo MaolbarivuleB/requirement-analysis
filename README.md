@@ -241,6 +241,9 @@ Imagine an **online bookstore** system:
 * **Use Cases**: Browse books, Place order, Make payment, Add book (admin)
 
 
+https://docs.google.com/document/d/1160nF6UuljNyyXdtUro5LWUbtq_jjMrTJyVw-19v24g/edit?usp=sharing
+
+
 
 
 
