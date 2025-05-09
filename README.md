@@ -55,7 +55,7 @@ Maintain and track changes to requirements throughout the project lifecycle.
 Use tools like traceability matrices or requirement management software to ensure alignment with objectives.
 
 
-WHY IS REQUIREMENT ANALYSIS IMPORTANT 
+## WHY IS REQUIREMENT ANALYSIS IMPORTANT 
 
 ChatGPT
 You said:
